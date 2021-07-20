@@ -1,4 +1,4 @@
-# Kraken Transaction Processor
+# Kraken - Homework assignment
 
 ###### Claude Seidman : claude@intellixus.com
 
